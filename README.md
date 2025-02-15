@@ -9,4 +9,5 @@ Open index.html in a browser.
 Start the quiz and test your knowledge!
 This Quiz App is a great beginner-friendly project for learning DOM manipulation, event handling, and JavaScript logic. 🚀
 
-![Uploading Screenshot 2025-02-15 164213.png…]()
+![Screenshot 2025-02-15 164213](https://github.com/user-attachments/assets/6af6fc24-571e-4e36-8d19-856f0e4dc80b)
+
