@@ -11,3 +11,4 @@ This Quiz App is a great beginner-friendly project for learning DOM manipulation
 
 ![Screenshot 2025-02-15 164213](https://github.com/user-attachments/assets/6af6fc24-571e-4e36-8d19-856f0e4dc80b)
 
+![image](https://github.com/user-attachments/assets/4a8a476b-2257-4686-8aab-b135bceedc18)
